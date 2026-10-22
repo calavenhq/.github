@@ -1,0 +1,21 @@
+{
+  "description": "Calaven. Good people. Great work. Software, AI, data and cloud.",
+  "composition": "Approved Calaven social artwork, reused unchanged. Original Calaven SVG identity and outlined Manrope type over the licensed ocean photograph. This image does not depict staff, premises or customers.",
+  "source": "https://calaven.com/assets/social-share.png",
+  "sourceAsset": "Calaven website/public/assets/social-share.png",
+  "sha256": "6fc6c462500344c73da91bf7945e447faae9f2912ed32992d9dcadfc80989da2",
+  "photograph": {
+    "author": "Jeremy Bishop",
+    "source": "https://unsplash.com/photos/aerial-view-of-ocean-waves-C-opW0i5McE",
+    "license": "Unsplash License",
+    "licenseURL": "https://unsplash.com/license"
+  },
+  "font": {
+    "family": "Manrope",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "OFL-Manrope.txt",
+    "rendering": "Outlined type rasterized in the approved source image; no live font file is embedded."
+  },
+  "width": 1200,
+  "height": 630
+}
