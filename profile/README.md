@@ -16,4 +16,6 @@ Our fully remote engineering roles are open to applicants worldwide. Read the re
 
 ---
 
-[calaven.com](https://calaven.com/) · [hello@calaven.com](mailto:hello@calaven.com) · [Facebook](https://web.facebook.com/calavenglobal/)
+[calaven.com](https://calaven.com/) · [hello@calaven.com](mailto:hello@calaven.com)
+
+[Instagram](https://www.instagram.com/calavenhq/) · [Facebook](https://www.facebook.com/calavenhq/) · [WhatsApp](https://wa.me/2348104347190)
